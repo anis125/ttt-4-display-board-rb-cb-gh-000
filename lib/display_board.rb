@@ -1,5 +1,5 @@
 def display_board(tab)
-puts(" #{tab[0]} | #{tab[0]} | #{tab[0]}  ")
+puts(" #{tab[0]} | #{tab[1]} | #{tab[2]}  ")
 puts("-----------")
 puts(" #{tab[3]} | #{tab[4]} | #{tab[5]}  ")
 puts("-----------")
