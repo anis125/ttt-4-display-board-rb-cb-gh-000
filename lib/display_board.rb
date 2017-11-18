@@ -5,4 +5,4 @@ puts(" #{tab[3]}  | #{tab[4]}  | #{tab[5]}  ")
 puts("-----------")
 puts(" #{tab[6]}  | #{tab[7]}  | #{tab[8]}  ")
 end
-display_board(board)
+display_board([" "," "," "," "," "," "," "," "," "])
